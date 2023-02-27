@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Feb 27 14:21:06 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : test1
+Top-level Entity Name : CortexM0_SoC
+Family : Cyclone IV E
+Total logic elements : 6,204
+    Total combinational functions : 5,370
+    Dedicated logic registers : 1,358
+Total registers : 1358
+Total pins : 12
+Total virtual pins : 0
+Total memory bits : 262,144
+Embedded Multiplier 9-bit elements : 6
+Total PLLs : 0

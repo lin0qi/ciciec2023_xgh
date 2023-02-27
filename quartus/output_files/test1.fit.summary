@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Feb 27 14:21:53 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : test1
+Top-level Entity Name : CortexM0_SoC
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 5,586 / 10,320 ( 54 % )
+    Total combinational functions : 5,372 / 10,320 ( 52 % )
+    Dedicated logic registers : 1,358 / 10,320 ( 13 % )
+Total registers : 1358
+Total pins : 12 / 180 ( 7 % )
+Total virtual pins : 0
+Total memory bits : 262,144 / 423,936 ( 62 % )
+Embedded Multiplier 9-bit elements : 6 / 46 ( 13 % )
+Total PLLs : 0 / 2 ( 0 % )
